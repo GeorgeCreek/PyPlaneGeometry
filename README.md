@@ -1,1 +1,1 @@
-# PyVectorAlgebra
+# PyPlaneGeometry
